@@ -89,7 +89,6 @@
 ## 📫 Contact  
 - **📧 Email:** **abdullah.ayman.rabie@gmail.com**  
 - **🔗 LinkedIn:** [linkedin.com/in/abduallah-ayman](http://www.linkedin.com/in/abduallah-ayman)  
-- **🐙 GitHub:** [github.com/abduallah-ayman](https://github.com/abduallah-ayman)
 
 ---
 
